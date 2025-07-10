@@ -1,4 +1,4 @@
-# flappy-bird# Flappy Bird
+# Flappy Bird
 
 This is a simple Flappy Bird game created with Unity.
 
